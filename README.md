@@ -6,7 +6,7 @@
         
 A Simple JavaScript Based Rich Text Editor.
 
-![Visit Site](https://bareth-rt-editor.netlify.com)
+[Visit Site](https://bareth-rt-editor.netlify.com)
 
 Features :
 - Bold | Italic | Underline
