@@ -1,4 +1,4 @@
-# Rich-Text Editor v1.0
+# <img src="https://i.imgur.com/RFHzLIa.png" width="22px"> Rich-Text Editor v1.0
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/598468fc-d1b5-4c3a-80f6-474b07ff64d7/deploy-status)](https://app.netlify.com/sites/bareth-rt-editor/deploys)
